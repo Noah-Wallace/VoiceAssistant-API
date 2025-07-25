@@ -1,0 +1,5 @@
+com\voiceassistantapi\rest\TranscriptRequest.class
+com\voiceassistantapi\rest\VoiceInterpretResource.class
+com\voiceassistantapi\rest\VoiceInterpretResource$Intent.class
+com\mycompany\voiceassistantapi\resources\JakartaEE8Resource.class
+com\voiceassistantapi\rest\ApplicationConfig.class

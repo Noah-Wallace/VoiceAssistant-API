@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jwnl_properties language="en">
+    <dictionary class="net.sf.extjwnl.dictionary.FileBackedDictionary">
+        <param name="dictionary_path" value="resource/extjwnl-data-wn31/dict"/>
+    </dictionary>
+</jwnl_properties>

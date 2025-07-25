@@ -1,0 +1,42 @@
+# Expanded OpenNLP training data for Parivahan intents
+RENEW_LICENSE	I want to renew my license
+RENEW_LICENSE	Can you help me renew license
+RENEW_LICENSE	Renew my license please
+RENEW_LICENSE	Please help me with license renewal
+RENEW_LICENSE	How do I renew my license
+CHECK_STATUS	What is my application status
+CHECK_STATUS	Check my status
+CHECK_STATUS	Can you check the status of my application
+CHECK_STATUS	Tell me my application status
+CHECK_STATUS	Status of my application
+GO_HOME	Go to home page
+GO_HOME	Take me home
+GO_HOME	Navigate to home
+GO_HOME	Back to home
+HELP	I need help
+HELP	Show help
+HELP	Help me
+HELP	I need assistance
+LOGOUT	Log me out
+LOGOUT	Logout
+LOGOUT	Sign out
+LOGOUT	I want to logout
+CHECK_VEHICLE	Check vehicle details for MH12AB1234
+CHECK_VEHICLE	Show me details of vehicle DL01AA0001
+CHECK_VEHICLE	Get vehicle info for KA05MK1234
+PAY_TAX	Pay my road tax
+PAY_TAX	I want to pay road tax
+PAY_TAX	Pay tax for my vehicle
+BOOK_TEST	Book a driving test
+BOOK_TEST	I want to book a driving test
+BOOK_TEST	Schedule my driving test
+DOWNLOAD_RC	Download my RC
+DOWNLOAD_RC	Get my registration certificate
+CHECK_CHALLAN	Check challan status
+CHECK_CHALLAN	Show my challan details
+APPLY_NOC	Apply for NOC
+APPLY_NOC	I want to apply for NOC
+UPDATE_ADDRESS	Update my address
+UPDATE_ADDRESS	Change address on my license
+GET_PERMIT	Get permit information
+GET_PERMIT	Show my permit details
